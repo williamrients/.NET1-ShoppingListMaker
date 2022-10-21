@@ -1,0 +1,36 @@
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListAccess.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListAccess.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.AssemblyReference.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.CoreCompileInputs.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListObjects.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.CopyComplete
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListAccess.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListAccess.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListObjects.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListObjects.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.AssemblyReference.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.CoreCompileInputs.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.CopyComplete
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListAccess.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListAccess.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListObjects.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListObjects.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.AssemblyReference.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.CoreCompileInputs.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.CopyComplete
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListAccess.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListAccess.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListObjects.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\bin\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.AssemblyReference.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.CoreCompileInputs.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.csproj.CopyComplete
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListAccess\obj\Debug\ShoppingListAccess.pdb

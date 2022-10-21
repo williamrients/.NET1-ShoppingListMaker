@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5a2fecd4-7677-41d3-a996-6635bd35a362": {
+      "ProjectGuid": "5a2fecd4-7677-41d3-a996-6635bd35a362",
+      "DisplayName": "ShoppingListLogicLayer",
+      "ColorIndex": 0
+    },
+    "d5b30e12-31a8-4406-afca-cafab7b857ca": {
+      "ProjectGuid": "d5b30e12-31a8-4406-afca-cafab7b857ca",
+      "DisplayName": "ShoppingListAccess",
+      "ColorIndex": 1
+    },
+    "2f4ebf66-d347-4e09-8029-38d36fe8a059": {
+      "ProjectGuid": "2f4ebf66-d347-4e09-8029-38d36fe8a059",
+      "DisplayName": "ShoppingListPresentation",
+      "ColorIndex": 2
+    },
+    "7f6179a1-acc0-4cf5-9fb3-ca44098cdd34": {
+      "ProjectGuid": "7f6179a1-acc0-4cf5-9fb3-ca44098cdd34",
+      "DisplayName": "ShoppingListObjects",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

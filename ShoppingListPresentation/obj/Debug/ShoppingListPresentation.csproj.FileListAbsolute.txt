@@ -1,0 +1,80 @@
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.exe.config
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.exe
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.AssemblyReference.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.Properties.Resources.resources
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.GenerateResource.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.exe
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.MainMenuForm.resources
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListLogic.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListObjects.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListLogic.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.CopyComplete
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.CreateNewForm.resources
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.ViewAList.resources
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListAccess.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListAccess.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.exe.config
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.exe
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListLogic.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListObjects.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListAccess.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListLogic.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListObjects.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListAccess.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.AssemblyReference.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.SuggestedBindingRedirects.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.CreateNewForm.resources
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.MainMenuForm.resources
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.Properties.Resources.resources
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.ViewAList.resources
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.GenerateResource.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.CoreCompileInputs.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.CopyComplete
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.exe
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.exe.config
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.exe
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListLogic.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListObjects.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListAccess.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListLogic.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListObjects.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListAccess.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.AssemblyReference.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.CreateNewForm.resources
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.MainMenuForm.resources
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.Properties.Resources.resources
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.ViewAList.resources
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.GenerateResource.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.CoreCompileInputs.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.CopyComplete
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.exe
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.ViewSpecificList.resources
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.ViewSpecificList.resources
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.AssemblyReference.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.exe
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.exe.config
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.exe
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListPresentation.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListLogic.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListObjects.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListAccess.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListLogic.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\bin\Debug\ShoppingListAccess.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.CreateNewForm.resources
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.MainMenuForm.resources
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.Properties.Resources.resources
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.ViewAList.resources
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.ViewSpecificList.resources
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.GenerateResource.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListPresentation\obj\Debug\ShoppingListPresentation.csproj.CopyComplete

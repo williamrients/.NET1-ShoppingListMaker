@@ -1,0 +1,5 @@
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.csproj.CoreCompileInputs.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.pdb

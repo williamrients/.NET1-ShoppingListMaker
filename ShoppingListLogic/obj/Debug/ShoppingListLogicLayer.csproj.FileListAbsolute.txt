@@ -1,0 +1,44 @@
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListAccess.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListObjects.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListAccess.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.CopyComplete
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListAccess.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListObjects.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListAccess.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListObjects.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.AssemblyReference.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.CoreCompileInputs.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.CopyComplete
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListAccess.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListObjects.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListAccess.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListObjects.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.AssemblyReference.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.CoreCompileInputs.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.CopyComplete
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListLogic.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListAccess.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListObjects.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListAccess.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\bin\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogicLayer.csproj.CopyComplete
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListLogic\obj\Debug\ShoppingListLogic.pdb

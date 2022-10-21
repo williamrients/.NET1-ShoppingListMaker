@@ -1,0 +1,24 @@
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListObjects\bin\Debug\ShoppingListObjects.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListObjects\bin\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.csproj.AssemblyReference.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.csproj.CoreCompileInputs.cache
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.dll
+C:\Users\Willi\source\repos\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListObjects\bin\Debug\ShoppingListObjects.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListObjects\bin\Debug\ShoppingListObjects.pdb
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.csproj.AssemblyReference.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.csproj.CoreCompileInputs.cache
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.dll
+D:\New Volume\spring2022\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListObjects\bin\Debug\ShoppingListObjects.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListObjects\bin\Debug\ShoppingListObjects.pdb
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.csproj.AssemblyReference.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.csproj.CoreCompileInputs.cache
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.dll
+D:\Spring-2022\.net\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListObjects\bin\Debug\ShoppingListObjects.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListObjects\bin\Debug\ShoppingListObjects.pdb
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.csproj.AssemblyReference.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.csproj.CoreCompileInputs.cache
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.dll
+C:\Users\Willi\projects\ShoppingListMaker\ShoppingListObjects\obj\Debug\ShoppingListObjects.pdb

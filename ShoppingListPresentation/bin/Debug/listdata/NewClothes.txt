@@ -1,0 +1,7 @@
+Clothes
+Shirt
+Pants
+Socks
+Shorts
+Hat
+
